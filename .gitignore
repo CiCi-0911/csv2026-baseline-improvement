@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.venv
+
+# Logs & checkpoints
+logs/
+*.log
+*.pth
+*.ckpt
+
+
+# OS
+.DS_Store
+
+
